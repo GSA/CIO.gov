@@ -22,10 +22,10 @@
 						<firstName>Gundeep</firstName>
 						<lastName>Ahluwalia </lastName>
 						<email>ahluwalia.gundeep@dol.gov </email> 
-						<phone></phone>
+						<phone>202-693-4446</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/</linkToPhoto>
-						<linkToBio>https://cio.gov/author/gundeep-ahluwalia/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-8.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-gundeep-ahluwalia/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Department of Labor
@@ -44,7 +44,7 @@ Washington, DC 20210</address1>
 					
 					
 			<entry>
-				<title>Department of Agriculture CIO Information </title>
+				<title>Department of Agriculture CIO Information</title>
 				<id></id>
 				<updated>2015-07-29T18:48:33Z</updated>
 				<content type="xml">
@@ -55,10 +55,10 @@ Washington, DC 20210</address1>
 						<firstName>Jonathan</firstName>
 						<lastName>Alboum </lastName>
 						<email>Jonathan.Alboum@ocio.usda.gov </email> 
-						<phone></phone>
+						<phone>202-720-8833</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/191.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/jonathan-alboum/</linkToBio>
+						<linkToPhoto>https://www.cio.gov/about/members-and-leadership/mr-jonathan-alboum/</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-jonathan-alboum/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>United States Department of Agriculture
@@ -78,21 +78,21 @@ Washington, D.C. 20250</address1>
 					
 					
 			<entry>
-				<title>Department of Transportation CIO Information </title>
+				<title>Department of Transportation CIO Information</title>
 				<id></id>
 				<updated>2017-01-30T23:07:30Z</updated>
 				<content type="xml">
 					<agency>
-					<agencyName></agencyName> 
-					<agencyCode></agencyCode>
+					<agencyName>Department of Transportation</agencyName> 
+					<agencyCode>021</agencyCode>
 					<cio>
 						<firstName>Kristen</firstName>
 						<lastName>Baldwin </lastName>
-						<email>kristen.baldwin@dot.gov </email> 
-						<phone></phone>
+						<email>kristen.baldwin@dot.gov</email> 
+						<phone>202-366-9201</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/</linkToPhoto>
-						<linkToBio>https://cio.gov/author/kristen-baldwin/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-18.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/ms-kristen-baldwin/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
@@ -115,15 +115,15 @@ Washington, D.C. 20250</address1>
 				<content type="xml">
 					<agency>
 					<agencyName>Department of Defense</agencyName> 
-					<agencyCode></agencyCode>
+					<agencyCode>007</agencyCode>
 					<cio>
 						<firstName>William J.</firstName>
 						<lastName>Bender </lastName>
-						<email>usaf.pentagon.saf-cio-a6.mbx.saf-cio-a6-workflow@mail.mil </email> 
+						<email>usaf.pentagon.saf-cio-a6.mbx.saf-cio-a6-workflow@mail.mil</email> 
 						<phone>703-695-6829</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/144.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/william-j-bender/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-13.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/lt-gen-william-j-bender/</linkToBio>
 						<deptCIO></deptCIO>
 						<address>
 							<address1>Department of the Air Force
@@ -154,11 +154,11 @@ Washington, DC 20330-1800
 					<cio>
 						<firstName>Sonny</firstName>
 						<lastName>Bhagowalia </lastName>
-						<email>Sonny.Bhagowalia@treasury.gov </email> 
+						<email>Sonny.Bhagowalia@treasury.gov</email> 
 						<phone>202-622-1200</phone>
 						<dateAppointed></dateAppointed>
 						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/138.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/sonny-bhagowalia/</linkToBio>
+						<linkToBio>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-17.png</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Department of the Treasury
@@ -179,7 +179,7 @@ Washington, DC 20006
 					
 					
 			<entry>
-				<title>Department of the Interior CIO Information </title>
+				<title>Department of the Interior CIO Information</title>
 				<id></id>
 				<updated>2014-04-03T17:50:40Z</updated>
 				<content type="xml">
@@ -192,8 +192,8 @@ Washington, DC 20006
 						<email>sylvia_burns@ios.doi.gov </email> 
 						<phone>202 208-6194</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/122.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/sylvia-burns/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-15.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/ms-sylvia-burns/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
@@ -210,21 +210,21 @@ Washington, DC 20006
 					
 					
 			<entry>
-				<title>Department of Housing and Urban Development CIO Information </title>
+				<title>Department of Housing and Urban Development Acting CIO Information </title>
 				<id></id>
 				<updated>2017-01-30T23:13:48Z</updated>
 				<content type="xml">
 					<agency>
-					<agencyName></agencyName> 
+					<agencyName>Department of Housing and Urban Development</agencyName> 
 					<agencyCode></agencyCode>
 					<cio>
 						<firstName>Kevin R.</firstName>
-						<lastName>Cooke </lastName>
-						<email>Kevin.R.Cooke@hud.gov </email> 
-						<phone></phone>
+						<lastName>Cooke</lastName>
+						<email>Kevin.R.Cooke@hud.gov</email> 
+						<phone>025</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/225.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/kevin-cooke/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-10.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-kevin-r-cook/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
@@ -241,7 +241,7 @@ Washington, DC 20006
 					
 					
 			<entry>
-				<title>Office of Personnel Management CIO Information </title>
+				<title>Office of Personnel Management CIO Information</title>
 				<id></id>
 				<updated>2014-05-09T17:48:30Z</updated>
 				<content type="xml">
@@ -250,12 +250,12 @@ Washington, DC 20006
 					<agencyCode>027</agencyCode>
 					<cio>
 						<firstName>David</firstName>
-						<lastName>De Vries </lastName>
-						<email>David.DeVries@opm.gov </email> 
+						<lastName>De Vries</lastName>
+						<email>David.DeVries@opm.gov</email> 
 						<phone>202-606-2150</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/123.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/david-de-vries/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-26.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-david-de-vries/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Office of Personnel Management
@@ -275,21 +275,21 @@ Washington, DC 20415</address1>
 					
 					
 			<entry>
-				<title>Department of Homeland Security CIO Information </title>
+				<title>Department of Homeland Security CIO Information</title>
 				<id></id>
 				<updated>2017-01-30T23:00:22Z</updated>
 				<content type="xml">
 					<agency>
-					<agencyName></agencyName> 
-					<agencyCode></agencyCode>
+					<agencyName>Department of Homeland Security</agencyName> 
+					<agencyCode>024</agencyCode>
 					<cio>
-						<firstName>Jeanne</firstName>
-						<lastName>Etzel </lastName>
-						<email>jeanne.etzel@hq.dhs.gov </email> 
+						<firstName>Richard</firstName>
+						<lastName>Starapoli</lastName>
+						<email></email> 
 						<phone></phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/</linkToPhoto>
-						<linkToBio>https://cio.gov/author/jeanne-etzel/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/06/Portraits-3.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-richard-staropoli/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
@@ -306,21 +306,21 @@ Washington, DC 20415</address1>
 					
 					
 			<entry>
-				<title>Department of the Army CIO Information </title>
+				<title>Department of the Army CIO Information</title>
 				<id></id>
 				<updated>2014-02-05T21:14:53Z</updated>
 				<content type="xml">
 					<agency>
 					<agencyName>Department of Defense</agencyName> 
-					<agencyCode></agencyCode>
+					<agencyCode>007</agencyCode>
 					<cio>
 						<firstName>Robert</firstName>
 						<lastName>Ferrell </lastName>
 						<email>robert.s.ferrell3.mil@mail.mil </email> 
 						<phone>703-695-4366</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/118.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/robert-s-ferrell/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-14.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/ltg-william-s-ferrell/</linkToBio>
 						<deptCIO></deptCIO>
 						<address>
 							<address1>Department of the Army
@@ -344,21 +344,21 @@ Office Fax:     703-695-3091</address1>
 					
 					
 			<entry>
-				<title>Environmental Protection Agency CIO Information </title>
+				<title>Environmental Protection Agency Acting CIO Information</title>
 				<id></id>
 				<updated>2017-01-30T23:26:01Z</updated>
 				<content type="xml">
 					<agency>
-					<agencyName></agencyName> 
-					<agencyCode></agencyCode>
+					<agencyName>Environmental Protection Agency</agencyName> 
+					<agencyCode>020</agencyCode>
 					<cio>
-						<firstName>Steve</firstName>
+						<firstName>Dr. Steven</firstName>
 						<lastName>Fine </lastName>
 						<email>Fine.steve@epa.gov </email> 
-						<phone></phone>
+						<phone>202-564-6665</phone>
 						<dateAppointed></dateAppointed>
 						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/226.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/steve-fine/</linkToBio>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/dr-steven-fine/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
@@ -381,15 +381,15 @@ Office Fax:     703-695-3091</address1>
 				<content type="xml">
 					<agency>
 					<agencyName>Department of Defense</agencyName> 
-					<agencyCode></agencyCode>
+					<agencyCode>007</agencyCode>
 					<cio>
 						<firstName>Robert</firstName>
 						<lastName>Foster </lastName>
 						<email>Robert.W.Foster@navy.mil </email> 
 						<phone></phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/86.png</linkToPhoto>
-						<linkToBio>https://cio.gov/author/robert-foster/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-16.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-robert-foster/</linkToBio>
 						<deptCIO></deptCIO>
 						<address>
 							<address1>Department of the Navy
@@ -413,16 +413,16 @@ Washington, DC 20350</address1>
 				<updated>2016-12-08T19:48:39Z</updated>
 				<content type="xml">
 					<agency>
-					<agencyName>US Army Corps of Engineers</agencyName> 
-					<agencyCode></agencyCode>
+					<agencyName>U.S. Army Corps of Engineers</agencyName> 
+					<agencyCode>202</agencyCode>
 					<cio>
 						<firstName>Gregory</firstName>
 						<lastName>Garcia </lastName>
 						<email>gregory.l.garcia@usace.army.mil </email> 
 						<phone>202-761-0273</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/215.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/gregory-l-garcia/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-1.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/greg-garcia/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>HQ USACE/CECI-ZA
@@ -441,7 +441,7 @@ Washington DC, 20314-1000</address1>
 					
 					
 			<entry>
-				<title>Office of Management and Budget CIO Information </title>
+				<title>Office of Management and Budget CIO Information</title>
 				<id></id>
 				<updated>2012-09-03T10:36:53Z</updated>
 				<content type="xml">
@@ -451,12 +451,12 @@ Washington DC, 20314-1000</address1>
 					<cio>
 						<firstName>Margie</firstName>
 						<lastName>Graves </lastName>
-						<email>cio@dhs.gov </email> 
+						<email></email> 
 						<phone></phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/60.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/margie-graves/</linkToBio>
-						<deptCIO></deptCIO>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Copy-of-Portraits-4.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/margie-graves/</linkToBio>
+						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
 							<address2></address2>
@@ -482,11 +482,11 @@ Washington DC, 20314-1000</address1>
 					<cio>
 						<firstName>Jason</firstName>
 						<lastName>Gray </lastName>
-						<email>jason.gray@ed.gov </email> 
-						<phone></phone>
+						<email>jason.gray@ed.gov</email> 
+						<phone>202-245-6252</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/202.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/jason-gray/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-6.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-jason-gray/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Department of Education
@@ -505,21 +505,21 @@ Washington, DC 20202</address1>
 					
 					
 			<entry>
-				<title>Department of Energy CIO Information </title>
+				<title>Department of Energy Acting CIO Information</title>
 				<id></id>
 				<updated>2017-01-23T18:02:50Z</updated>
 				<content type="xml">
 					<agency>
-					<agencyName></agencyName> 
+					<agencyName>Department of Energy</agencyName> 
 					<agencyCode></agencyCode>
 					<cio>
 						<firstName>Robert</firstName>
-						<lastName>Green </lastName>
+						<lastName>Green</lastName>
 						<email>Robert.Green@hq.doe.gov </email> 
 						<phone></phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/</linkToPhoto>
-						<linkToBio>https://cio.gov/author/robert-green/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/291.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-robert-green/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
@@ -536,7 +536,7 @@ Washington, DC 20202</address1>
 					
 					
 			<entry>
-				<title>National Archives and Records Administration CIO Information </title>
+				<title>National Archives and Records Administration CIO Information</title>
 				<id></id>
 				<updated>2015-10-29T20:11:48Z</updated>
 				<content type="xml">
@@ -547,10 +547,10 @@ Washington, DC 20202</address1>
 						<firstName>Swarnali</firstName>
 						<lastName>Haldar </lastName>
 						<email>swarnali.haldar@nara.gov </email> 
-						<phone></phone>
+						<phone>301-837-2027</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/197.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/swarnali-haldar/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Portraits-43.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/ms-swarnali-haldar/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>National Archives and Records Administration
@@ -617,11 +617,11 @@ Office Phone: (202) 205-2210</address1>
 						<firstName>Beth Anne</firstName>
 						<lastName>Killoran </lastName>
 						<email>Beth.Killoran@hhs.gov </email> 
-						<phone></phone>
+						<phone>202-690-6162</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/192.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/beth-killoran/</linkToBio>
-						<deptCIO></deptCIO>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-7.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/ms-beth-anne-killoran/</linkToBio>
+						<deptCIO>1</deptCIO>
 						<address>
 							<address1>200 Independence Avenue, SW
 Washington, DC 20201</address1>
@@ -638,7 +638,7 @@ Washington, DC 20201</address1>
 					
 					
 			<entry>
-				<title>Department of Justice CIO Information </title>
+				<title>Department of Justice CIO Information</title>
 				<id></id>
 				<updated>2014-05-28T20:40:38Z</updated>
 				<content type="xml">
@@ -651,8 +651,8 @@ Washington, DC 20201</address1>
 						<email>joseph.klimavicz@usdoj.gov </email> 
 						<phone>202-514-0507</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/124.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/joseph-f-klimavicz/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-11.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-joseph-klimavicz/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Department of Justice
@@ -672,7 +672,7 @@ Washington, DC 20530-3101
 					
 					
 			<entry>
-				<title>Social Security Administration CIO Information </title>
+				<title>Social Security Administration Acting CIO Information </title>
 				<id></id>
 				<updated>2015-10-27T20:37:00Z</updated>
 				<content type="xml">
@@ -680,13 +680,13 @@ Washington, DC 20530-3101
 					<agencyName>Social Security Administration</agencyName> 
 					<agencyCode>016</agencyCode>
 					<cio>
-						<firstName>Rob</firstName>
-						<lastName>Klopp </lastName>
-						<email>Robert.Klopp@ssa.gov </email> 
-						<phone></phone>
+						<firstName>Herb</firstName>
+						<lastName>Strauss</lastName>
+						<email>Herb.Strauss@ssa.gov</email> 
+						<phone>410-965-8399</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/196.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/rob-klopp/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-281.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-herb-strauss/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Social Security Administration
@@ -711,15 +711,15 @@ Washington, DC 20530-3101
 				<content type="xml">
 					<agency>
 					<agencyName>Agency for International Development</agencyName> 
-					<agencyCode>999</agencyCode>
+					<agencyCode>184</agencyCode>
 					<cio>
 						<firstName>Jay</firstName>
 						<lastName>Mahanand </lastName>
 						<email>DCIO-USAID@usaid.gov </email> 
 						<phone></phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/32.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/jay-mahanand/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/jay-mahanand/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Agency for International Development
@@ -748,7 +748,7 @@ Office Phone:</address1>
 				<content type="xml">
 					<agency>
 					<agencyName>Nuclear Regulatory Commission</agencyName> 
-					<agencyCode></agencyCode>
+					<agencyCode>429</agencyCode>
 					<cio>
 						<firstName>David</firstName>
 						<lastName>Nelson </lastName>
@@ -756,7 +756,7 @@ Office Phone:</address1>
 						<phone>301-415-7443</phone>
 						<dateAppointed></dateAppointed>
 						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/210.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/david-nelson/</linkToBio>
+						<linkToBio>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-25.png</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Nuclear Regulatory Commission
@@ -776,7 +776,7 @@ Rockville, MD 20852</address1>
 					
 					
 			<entry>
-				<title>National Science Foundation CIO Information </title>
+				<title>National Science Foundation CIO Information   </title>
 				<id></id>
 				<updated>2012-09-03T08:19:36Z</updated>
 				<content type="xml">
@@ -784,13 +784,13 @@ Rockville, MD 20852</address1>
 					<agencyName>National Science Foundation</agencyName> 
 					<agencyCode>422</agencyCode>
 					<cio>
-						<firstName>Amy</firstName>
-						<lastName>Northcutt </lastName>
-						<email>anorthcu@nsf.gov </email> 
-						<phone>703-292-8100</phone>
+						<firstName>Dorothy</firstName>
+						<lastName>Aronson</lastName>
+						<email>daronson@nsf.gov</email> 
+						<phone>703-292-4299</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/27.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/amy-northcutt/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/05/Portraits-1.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/dorothy-aronson/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>National Science Foundation
@@ -824,11 +824,11 @@ Office Fax:     703-292-9084 </address1>
 					<cio>
 						<firstName>Maria</firstName>
 						<lastName>Roat </lastName>
-						<email>Maria.Roat@sba.gov </email> 
-						<phone></phone>
+						<email>maria.roat@sba.gov</email> 
+						<phone>202-205-6708</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/211.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/maria-roat/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-27.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/ms-maria-roat/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>409 Third Street, SW
@@ -856,7 +856,7 @@ Washington, DC 20416</address1>
 					<agencyCode>006</agencyCode>
 					<cio>
 						<firstName>Charles H.</firstName>
-						<lastName>Romine </lastName>
+						<lastName>Romine</lastName>
 						<email>cromine@nist.gov </email> 
 						<phone>301-975-2900</phone>
 						<dateAppointed></dateAppointed>
@@ -898,8 +898,8 @@ Office Fax:     301-975-2378</address1>
 						<email>David.Shive@gsa.gov </email> 
 						<phone></phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/189.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/david-shive/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-21.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-david-shive/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>General Services Administration
@@ -924,16 +924,16 @@ Washington, DC 20417
 				<updated>2017-01-23T18:16:12Z</updated>
 				<content type="xml">
 					<agency>
-					<agencyName></agencyName> 
-					<agencyCode></agencyCode>
+					<agencyName>Department of Veterans Affairs</agencyName> 
+					<agencyCode>029</agencyCode>
 					<cio>
 						<firstName>Rob</firstName>
-						<lastName>Thomas </lastName>
-						<email>rob.thomas2@va.gov </email> 
-						<phone></phone>
+						<lastName>Thomas</lastName>
+						<email>rob.thomas2@va.gov</email> 
+						<phone>202-461-6911</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/222.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/rob-thomas/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-19.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-rob-thomas/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
@@ -950,21 +950,21 @@ Washington, DC 20417
 					
 					
 			<entry>
-				<title>Department of Commerce CIO Information </title>
+				<title>Department of Commerce Acting CIO Information </title>
 				<id></id>
 				<updated>2017-01-23T17:56:55Z</updated>
 				<content type="xml">
 					<agency>
-					<agencyName></agencyName> 
-					<agencyCode></agencyCode>
+					<agencyName>Department of Commerce</agencyName> 
+					<agencyCode>006</agencyCode>
 					<cio>
 						<firstName>Rod</firstName>
-						<lastName>Turk </lastName>
-						<email>rturk@doc.gov </email> 
-						<phone></phone>
+						<lastName>Turk</lastName>
+						<email>rturk@doc.gov</email> 
+						<phone>202-482-4797</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/</linkToPhoto>
-						<linkToBio>https://cio.gov/author/rod-turk/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-3.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/rod-turk/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
@@ -990,12 +990,12 @@ Washington, DC 20417
 					<agencyCode>014</agencyCode>
 					<cio>
 						<firstName>Frontis B.</firstName>
-						<lastName>Wiggins III </lastName>
+						<lastName>Wiggins III</lastName>
 						<email>C.IO@state.gov </email> 
 						<phone></phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/199.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/frontis-b-wiggins-iii/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-12.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-frontis-wiggins/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>U.S. Department of State
@@ -1024,11 +1024,11 @@ Washington, DC 20522-0906</address1>
 					<cio>
 						<firstName>Renee</firstName>
 						<lastName>Wynn </lastName>
-						<email>renee.p.wynn@nasa.gov </email> 
-						<phone></phone>
+						<email>renee.p.wynn@nasa.gov</email> 
+						<phone>202-358-1824</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/195.jpg</linkToPhoto>
-						<linkToBio>https://cio.gov/author/renee-wynn/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-22.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/ms-renee-wynn/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>National Aeronautics &amp; Space Administration
@@ -1058,15 +1058,15 @@ Office Fax:     202-358-3017</address1>
 				<content type="xml">
 					<agency>
 					<agencyName>Department of Defense</agencyName> 
-					<agencyCode></agencyCode>
+					<agencyCode>007</agencyCode>
 					<cio>
-						<firstName>John</firstName>
+						<firstName>Dr. John</firstName>
 						<lastName>Zangardi </lastName>
-						<email>osd.pentagon.dod-cio.mbx.front-office@MAIL.MIL </email> 
-						<phone></phone>
+						<email>john.a.zangardi.civ@mail.mil</email> 
+						<phone>703-614-7323</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/139.png</linkToPhoto>
-						<linkToBio>https://cio.gov/author/john-zangardi/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-5.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/dr-john-zangardi/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Office of the Department of Defense, Chief Information Officer
