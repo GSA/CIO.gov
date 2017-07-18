@@ -157,8 +157,8 @@ Washington, DC 20330-1800
 						<email>Sonny.Bhagowalia@treasury.gov</email> 
 						<phone>202-622-1200</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://cio.gov/wp-content/uploads/userphoto/138.jpg</linkToPhoto>
-						<linkToBio>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-17.png</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-17.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-sonny-bhagowalia/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Department of the Treasury
@@ -216,7 +216,7 @@ Washington, DC 20006
 				<content type="xml">
 					<agency>
 					<agencyName>Department of Housing and Urban Development</agencyName> 
-					<agencyCode></agencyCode>
+					<agencyCode>025</agencyCode>
 					<cio>
 						<firstName>Kevin R.</firstName>
 						<lastName>Cooke</lastName>
@@ -511,7 +511,7 @@ Washington, DC 20202</address1>
 				<content type="xml">
 					<agency>
 					<agencyName>Department of Energy</agencyName> 
-					<agencyCode></agencyCode>
+					<agencyCode>019</agencyCode>
 					<cio>
 						<firstName>Robert</firstName>
 						<lastName>Green</lastName>
