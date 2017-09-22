@@ -44,7 +44,7 @@ Washington, DC 20210</address1>
 					
 					
 			<entry>
-				<title>Department of Agriculture CIO Information</title>
+				<title>Department of Agriculture Acting CIO Information</title>
 				<id></id>
 				<updated>2015-07-29T18:48:33Z</updated>
 				<content type="xml">
@@ -144,7 +144,7 @@ Washington, DC 20330-1800
 					
 					
 			<entry>
-				<title>Department of the Treasury CIO Information </title>
+				<title>Department of the Treasury Acting CIO Information </title>
 				<id></id>
 				<updated>2014-11-14T20:01:45Z</updated>
 				<content type="xml">
@@ -210,7 +210,7 @@ Washington, DC 20006
 					
 					
 			<entry>
-				<title>Department of Housing and Urban Development Acting CIO Information </title>
+				<title>Department of Housing and Urban Development CIO Information </title>
 				<id></id>
 				<updated>2017-01-30T23:13:48Z</updated>
 				<content type="xml">
@@ -314,13 +314,13 @@ Washington, DC 20415</address1>
 					<agencyName>Department of Defense</agencyName> 
 					<agencyCode>007</agencyCode>
 					<cio>
-						<firstName>Gary</firstName>
-						<lastName>Wang</lastName>
-						<email>robert.s.ferrell3.mil@mail.mil </email> 
-						<phone>703-695-4366</phone>
+						<firstName>Bruce</firstName>
+						<lastName>Crawford</lastName>
+						<email> </email> 
+						<phone></phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Portraits-6.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-gary-wang/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/09/Portraits-72.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/lieutenant-general-bruce-t-crawford/</linkToBio>
 						<deptCIO></deptCIO>
 						<address>
 							<address1>Department of the Army
@@ -352,7 +352,7 @@ Office Fax:     703-695-3091</address1>
 					<agencyName>Environmental Protection Agency</agencyName> 
 					<agencyCode>020</agencyCode>
 					<cio>
-						<firstName>Dr. Steven</firstName>
+						<firstName>Steven</firstName>
 						<lastName>Fine</lastName>
 						<email>Fine.steve@epa.gov </email> 
 						<phone>202-564-6665</phone>
@@ -545,7 +545,7 @@ Washington, DC 20202</address1>
 					<agencyCode>393</agencyCode>
 					<cio>
 						<firstName>Swarnali</firstName>
-						<lastName>Haldar </lastName>
+						<lastName>Haldar</lastName>
 						<email>swarnali.haldar@nara.gov </email> 
 						<phone>301-837-2027</phone>
 						<dateAppointed></dateAppointed>
@@ -1060,7 +1060,7 @@ Office Fax:     202-358-3017</address1>
 					<agencyName>Department of Defense</agencyName> 
 					<agencyCode>007</agencyCode>
 					<cio>
-						<firstName>Dr. John</firstName>
+						<firstName>John</firstName>
 						<lastName>Zangardi </lastName>
 						<email>john.a.zangardi.civ@mail.mil</email> 
 						<phone>703-614-7323</phone>
