@@ -52,13 +52,13 @@ Washington, DC 20210</address1>
 					<agencyName>Department of Agriculture</agencyName> 
 					<agencyCode>005</agencyCode>
 					<cio>
-						<firstName>Jonathan</firstName>
-						<lastName>Alboum </lastName>
-						<email>Jonathan.Alboum@ocio.usda.gov </email> 
+						<firstName>Gary</firstName>
+						<lastName>Washington</lastName>
+						<email>Gary.S.Washington@ocio.usda.gov</email> 
 						<phone>202-720-8833</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-2.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-jonathan-alboum/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/09/Portraits-21.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/31495-2/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>United States Department of Agriculture
@@ -117,13 +117,13 @@ Washington, D.C. 20250</address1>
 					<agencyName>Department of Defense</agencyName> 
 					<agencyCode>007</agencyCode>
 					<cio>
-						<firstName>William J.</firstName>
-						<lastName>Bender </lastName>
+						<firstName>Bradford "B.J."</firstName>
+						<lastName>Shwedo</lastName>
 						<email>usaf.pentagon.saf-cio-a6.mbx.saf-cio-a6-workflow@mail.mil</email> 
 						<phone>703-695-6829</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-13.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/lt-gen-william-j-bender/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Portraits-74.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/lieutenant-general-bradford-j-b-j-shwedo/</linkToBio>
 						<deptCIO></deptCIO>
 						<address>
 							<address1>Department of the Air Force
@@ -152,13 +152,13 @@ Washington, DC 20330-1800
 					<agencyName>Department of the Treasury</agencyName> 
 					<agencyCode>015</agencyCode>
 					<cio>
-						<firstName>Sonny</firstName>
-						<lastName>Bhagowalia </lastName>
-						<email>Sonny.Bhagowalia@treasury.gov</email> 
-						<phone>202-622-1200</phone>
+						<firstName>Eric</firstName>
+						<lastName>Olson</lastName>
+						<email>eric.olson@treasury.gov</email> 
+						<phone>202-622-2015</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-17.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-sonny-bhagowalia/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/07/Portraits-12.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-eric-olson/?preview_id=31243</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Department of the Treasury
@@ -241,7 +241,7 @@ Washington, DC 20006
 					
 					
 			<entry>
-				<title>Office of Personnel Management CIO Information</title>
+				<title>Office of Personnel Management Acting CIO Information</title>
 				<id></id>
 				<updated>2014-05-09T17:48:30Z</updated>
 				<content type="xml">
@@ -249,13 +249,13 @@ Washington, DC 20006
 					<agencyName>Office of Personnel Management</agencyName> 
 					<agencyCode>027</agencyCode>
 					<cio>
-						<firstName>David</firstName>
-						<lastName>De Vries</lastName>
-						<email>David.DeVries@opm.gov</email> 
-						<phone>202-606-2150</phone>
+						<firstName>Robert</firstName>
+						<lastName>Leahy</lastName>
+						<email>robert.leahy@opm.gov</email> 
+						<phone>202-606-1800</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-26.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-david-de-vries/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/08/Leahy-Page-Thumb.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-robert-leahy/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Office of Personnel Management
@@ -275,7 +275,7 @@ Washington, DC 20415</address1>
 					
 					
 			<entry>
-				<title>Department of Homeland Security CIO Information</title>
+				<title>Department of Homeland Security Acting CIO Information</title>
 				<id></id>
 				<updated>2017-01-30T23:00:22Z</updated>
 				<content type="xml">
@@ -283,13 +283,13 @@ Washington, DC 20415</address1>
 					<agencyName>Department of Homeland Security</agencyName> 
 					<agencyCode>024</agencyCode>
 					<cio>
-						<firstName>Richard</firstName>
-						<lastName>Starapoli</lastName>
+						<firstName>Stephen</firstName>
+						<lastName>Rice</lastName>
 						<email></email> 
-						<phone></phone>
+						<phone>631-226-2796</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/06/Portraits-3.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-richard-staropoli/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/08/Leahy-Page-Thumb.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-robert-leahy/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
@@ -353,7 +353,7 @@ Office Fax:     703-695-3091</address1>
 					<agencyCode>020</agencyCode>
 					<cio>
 						<firstName>Dr. Steven</firstName>
-						<lastName>Fine </lastName>
+						<lastName>Fine</lastName>
 						<email>Fine.steve@epa.gov </email> 
 						<phone>202-564-6665</phone>
 						<dateAppointed></dateAppointed>
@@ -375,7 +375,7 @@ Office Fax:     703-695-3091</address1>
 					
 					
 			<entry>
-				<title>Department of the Navy CIO Information </title>
+				<title>Department of the Navy Acting CIO Information </title>
 				<id></id>
 				<updated>2013-02-14T17:26:21Z</updated>
 				<content type="xml">
@@ -383,13 +383,13 @@ Office Fax:     703-695-3091</address1>
 					<agencyName>Department of Defense</agencyName> 
 					<agencyCode>007</agencyCode>
 					<cio>
-						<firstName>Robert</firstName>
-						<lastName>Foster </lastName>
-						<email>Robert.W.Foster@navy.mil </email> 
-						<phone></phone>
+						<firstName>Kelly</firstName>
+						<lastName>Fletcher</lastName>
+						<email>kelly.fletcher@navy.mil</email> 
+						<phone>703-695-1840</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-16.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-robert-foster/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/08/Navy-Thumbnail.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/dr-kelly-fletcher/</linkToBio>
 						<deptCIO></deptCIO>
 						<address>
 							<address1>Department of the Navy
@@ -513,13 +513,13 @@ Washington, DC 20202</address1>
 					<agencyName>Department of Energy</agencyName> 
 					<agencyCode>019</agencyCode>
 					<cio>
-						<firstName>Robert</firstName>
-						<lastName>Green</lastName>
-						<email>Robert.Green@hq.doe.gov </email> 
-						<phone></phone>
+						<firstName>Max</firstName>
+						<lastName>Everett</lastName>
+						<email>	max.everett@hq.doe.gov</email> 
+						<phone>202-586-0166</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/291.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-robert-green/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/07/Portraits-58.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/max-everett/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
@@ -919,7 +919,7 @@ Washington, DC 20417
 					
 					
 			<entry>
-				<title>Veterans Affairs CIO Information </title>
+				<title>Veterans Affairs Acting CIO Information </title>
 				<id></id>
 				<updated>2017-01-23T18:16:12Z</updated>
 				<content type="xml">
@@ -927,13 +927,13 @@ Washington, DC 20417
 					<agencyName>Department of Veterans Affairs</agencyName> 
 					<agencyCode>029</agencyCode>
 					<cio>
-						<firstName>Rob</firstName>
-						<lastName>Thomas</lastName>
-						<email>rob.thomas2@va.gov</email> 
-						<phone>202-461-6911</phone>
+						<firstName>Scott</firstName>
+						<lastName>Blackburn</lastName>
+						<email></email> 
+						<phone></phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-19.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-rob-thomas/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/09/Portraits-4.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-scott-blackburn/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
