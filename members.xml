@@ -86,13 +86,13 @@ Washington, D.C. 20250</address1>
 					<agencyName>Department of Transportation</agencyName> 
 					<agencyCode>021</agencyCode>
 					<cio>
-						<firstName>Kristen</firstName>
-						<lastName>Baldwin </lastName>
-						<email>kristen.baldwin@dot.gov</email> 
-						<phone>202-366-9201</phone>
+						<firstName>Vicki</firstName>
+						<lastName>Hildebrand</lastName>
+						<email></email> 
+						<phone></phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-18.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/ms-kristen-baldwin/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Portraits-301.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/ms-vicki-hildebrand/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
@@ -249,13 +249,13 @@ Washington, DC 20006
 					<agencyName>Office of Personnel Management</agencyName> 
 					<agencyCode>027</agencyCode>
 					<cio>
-						<firstName>Robert</firstName>
-						<lastName>Leahy</lastName>
-						<email>robert.leahy@opm.gov</email> 
-						<phone>202-606-1800</phone>
+						<firstName>David</firstName>
+						<lastName>Garcia</lastName>
+						<email>david.garcia@opm.gov</email> 
+						<phone>202-606-1129</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/08/Leahy-Page-Thumb.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-robert-leahy/</linkToBio>
+						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/10/Portraits-24.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-david-garcia/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Office of Personnel Management
@@ -823,7 +823,7 @@ Office Fax:     703-292-9084 </address1>
 					<agencyCode>028</agencyCode>
 					<cio>
 						<firstName>Maria</firstName>
-						<lastName>Roat </lastName>
+						<lastName>Roat</lastName>
 						<email>maria.roat@sba.gov</email> 
 						<phone>202-205-6708</phone>
 						<dateAppointed></dateAppointed>
@@ -894,7 +894,7 @@ Office Fax:     301-975-2378</address1>
 					<agencyCode>023</agencyCode>
 					<cio>
 						<firstName>David</firstName>
-						<lastName>Shive </lastName>
+						<lastName>Shive</lastName>
 						<email>David.Shive@gsa.gov </email> 
 						<phone></phone>
 						<dateAppointed></dateAppointed>
@@ -1060,13 +1060,13 @@ Office Fax:     202-358-3017</address1>
 					<agencyName>Department of Defense</agencyName> 
 					<agencyCode>007</agencyCode>
 					<cio>
-						<firstName>John</firstName>
-						<lastName>Zangardi </lastName>
-						<email>john.a.zangardi.civ@mail.mil</email> 
+						<firstName>Essye</firstName>
+						<lastName>Miller</lastName>
+						<email>osd.pentagon.dod-cio.mbx.front-office@mail.mil</email> 
 						<phone>703-614-7323</phone>
 						<dateAppointed></dateAppointed>
 						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-5.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/dr-john-zangardi/</linkToBio>
+						<linkToBio>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/12/Portraits-32.png</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1>Office of the Department of Defense, Chief Information Officer
