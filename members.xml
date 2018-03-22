@@ -188,7 +188,7 @@ Washington, DC 20006
 					<agencyCode>010</agencyCode>
 					<cio>
 						<firstName>Sylvia</firstName>
-						<lastName>Burns </lastName>
+						<lastName>Burns</lastName>
 						<email>sylvia_burns@ios.doi.gov </email> 
 						<phone>202 208-6194</phone>
 						<dateAppointed></dateAppointed>
@@ -275,7 +275,7 @@ Washington, DC 20415</address1>
 					
 					
 			<entry>
-				<title>Department of Homeland Security Acting CIO Information</title>
+				<title>Department of Homeland Security CIO Information</title>
 				<id></id>
 				<updated>2017-01-30T23:00:22Z</updated>
 				<content type="xml">
@@ -283,13 +283,13 @@ Washington, DC 20415</address1>
 					<agencyName>Department of Homeland Security</agencyName> 
 					<agencyCode>024</agencyCode>
 					<cio>
-						<firstName>Stephen</firstName>
-						<lastName>Rice</lastName>
-						<email></email> 
+						<firstName>Dr. John</firstName>
+						<lastName>Zangardi/lastName>
+						<email>coordination and oversight</email> 
 						<phone>631-226-2796</phone>
 						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/08/Leahy-Page-Thumb.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-robert-leahy/</linkToBio>
+						<linkToPhoto>https://www.cio.gov/assets/img/bio.zangardi.john.png</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/dr-john-zangardi/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
 							<address1></address1>
@@ -450,7 +450,7 @@ Washington DC, 20314-1000</address1>
 					<agencyCode>024</agencyCode>
 					<cio>
 						<firstName>Margie</firstName>
-						<lastName>Graves </lastName>
+						<lastName>Graves</lastName>
 						<email></email> 
 						<phone></phone>
 						<dateAppointed></dateAppointed>
@@ -481,7 +481,7 @@ Washington DC, 20314-1000</address1>
 					<agencyCode>018</agencyCode>
 					<cio>
 						<firstName>Jason</firstName>
-						<lastName>Gray </lastName>
+						<lastName>Gray</lastName>
 						<email>jason.gray@ed.gov</email> 
 						<phone>202-245-6252</phone>
 						<dateAppointed></dateAppointed>
@@ -578,7 +578,7 @@ College Park, MD 20740</address1>
 					<agencyCode>378</agencyCode>
 					<cio>
 						<firstName>Philip M.</firstName>
-						<lastName>Heneghan </lastName>
+						<lastName>Heneghan</lastName>
 						<email>philip.heneghan@usitc.gov </email> 
 						<phone>202-205-2210</phone>
 						<dateAppointed></dateAppointed>
@@ -615,7 +615,7 @@ Office Phone: (202) 205-2210</address1>
 					<agencyCode>009</agencyCode>
 					<cio>
 						<firstName>Beth Anne</firstName>
-						<lastName>Killoran </lastName>
+						<lastName>Killoran</lastName>
 						<email>Beth.Killoran@hhs.gov </email> 
 						<phone>202-690-6162</phone>
 						<dateAppointed></dateAppointed>
@@ -751,7 +751,7 @@ Office Phone:</address1>
 					<agencyCode>429</agencyCode>
 					<cio>
 						<firstName>David</firstName>
-						<lastName>Nelson </lastName>
+						<lastName>Nelson</lastName>
 						<email>David.Nelson2@nrc.gov </email> 
 						<phone>301-415-7443</phone>
 						<dateAppointed></dateAppointed>
@@ -1023,7 +1023,7 @@ Washington, DC 20522-0906</address1>
 					<agencyCode>026</agencyCode>
 					<cio>
 						<firstName>Renee</firstName>
-						<lastName>Wynn </lastName>
+						<lastName>Wynn</lastName>
 						<email>renee.p.wynn@nasa.gov</email> 
 						<phone>202-358-1824</phone>
 						<dateAppointed></dateAppointed>
