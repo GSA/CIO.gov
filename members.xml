@@ -352,20 +352,20 @@ Office Fax:     703-695-3091</address1>
 					<agencyName>Environmental Protection Agency</agencyName> 
 					<agencyCode>020</agencyCode>
 					<cio>
-						<firstName>Steven</firstName>
-						<lastName>Fine</lastName>
-						<email>Fine.steve@epa.gov </email> 
+						<firstName>Vaugh</firstName>
+						<lastName>Noga</lastName>
+						<email>noga.vaughn@epa.gov</email> 
 						<phone>202-564-6665</phone>
-						<dateAppointed></dateAppointed>
-						<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-20.png</linkToPhoto>
-						<linkToBio>https://www.cio.gov/about/members-and-leadership/dr-steven-fine/</linkToBio>
+						<dateAppointed>August 6, 2018</dateAppointed>
+						<linkToPhoto</linkToPhoto>
+						<linkToBio>https://www.cio.gov/about/members-and-leadership/vaughn-noga/</linkToBio>
 						<deptCIO>1</deptCIO>
 						<address>
-							<address1></address1>
+							<address1>1200 Pennsylvania Ave NW</address1>
 							<address2></address2>
-							<city></city>
-							<state></state>
-							<zip></zip>
+							<city>Washington</city>
+							<state>DC </state>
+							<zip>20004</zip>
 						</address> 
 					</cio>
 					</agency>
