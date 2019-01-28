@@ -828,7 +828,7 @@
 	</entry>
 
 	<entry>
-		<title>Veterans Affairs Acting CIO Information
+		<title>Veterans Affairs CIO Information
 		</title>
 		<id></id>
 		<updated>2017-01-23T18:16:12Z</updated>
@@ -837,13 +837,13 @@
 				<agencyName>Department of Veterans Affairs</agencyName>
 				<agencyCode>029</agencyCode>
 				<cio>
-					<firstName>Camilo</firstName>
-					<lastName>Sandoval</lastName>
-					<email>Camilo.Sandoval@va.gov</email>
+					<firstName>James</firstName>
+					<lastName>Gfrerer</lastName>
+					<email>james.gfrerer@va.gov</email>
 					<phone>202-461-6910</phone>
 					<dateAppointed></dateAppointed>
-					<linkToPhoto>https://www.cio.gov/assets/img/members/bio_Sandoval.png</linkToPhoto>
-					<linkToBio>https://www.cio.gov/about/members-and-leadership/sandoval-camilo/</linkToBio>
+					<linkToPhoto>https://www.cio.gov/assets/img/members/bio.gfrerer.jpg</linkToPhoto>
+					<linkToBio>https://www.cio.gov/about/members-and-leadership/gfrerer-james/</linkToBio>
 					<deptCIO>1</deptCIO>
 					<address>
 						<address1></address1>
