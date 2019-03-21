@@ -78,13 +78,13 @@
 				<agencyName>Department of Transportation</agencyName>
 				<agencyCode>021</agencyCode>
 				<cio>
-					<firstName>Vicki</firstName>
-					<lastName>Hildebrand</lastName>
+					<firstName>Ryan</firstName>
+					<lastName>Cote</lastName>
 					<email></email>
 					<phone></phone>
 					<dateAppointed></dateAppointed>
-					<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Portraits-301.png</linkToPhoto>
-					<linkToBio>https://www.cio.gov/about/members-and-leadership/ms-vicki-hildebrand/</linkToBio>
+					<linkToPhoto>https://github.com/GSA/cio-council/blob/master/assets/img/members/Ryan_Cote.jpg</linkToPhoto>
+					<linkToBio>https://www.cio.gov/about/members-and-leadership/ra/</linkToBio>
 					<deptCIO>1</deptCIO>
 					<address>
 						<address1></address1>
@@ -171,14 +171,13 @@
 				<agencyName>Department of the Interior</agencyName>
 				<agencyCode>010</agencyCode>
 				<cio>
-					<firstName>Sylvia</firstName>
-					<lastName>Burns</lastName>
-					<email>sylvia_burns@ios.doi.gov
-					</email>
-					<phone>202 208-6194</phone>
+					<firstName>Bill</firstName>
+					<lastName>Vajda</lastName>
+					<email></email>
+					<phone></phone>
 					<dateAppointed></dateAppointed>
-					<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/03/Color-Portraits-15.png</linkToPhoto>
-					<linkToBio>https://www.cio.gov/about/members-and-leadership/ms-sylvia-burns/</linkToBio>
+					<linkToPhoto>https://github.com/GSA/cio-council/blob/master/assets/img/members/Interior_Department_Seal.png</linkToPhoto>
+					<linkToBio>https://www.cio.gov/about/members-and-leadership/bill-vajda/</linkToBio>
 					<deptCIO>1</deptCIO>
 					<address>
 						<address1></address1>
@@ -231,13 +230,13 @@
 				<agencyName>Office of Personnel Management</agencyName>
 				<agencyCode>027</agencyCode>
 				<cio>
-					<firstName>David</firstName>
-					<lastName>Garcia</lastName>
-					<email>david.garcia@opm.gov</email>
-					<phone>202-606-1129</phone>
+					<firstName>CLARE</firstName>
+					<lastName>MARTORANA</lastName>
+					<email></email>
+					<phone></phone>
 					<dateAppointed></dateAppointed>
-					<linkToPhoto>https://www.cio.gov/assets/img/members/bio_Garcia.png</linkToPhoto>
-					<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-david-garcia/</linkToBio>
+					<linkToPhoto>https://github.com/GSA/cio-council/blob/master/assets/img/members/Personnel_Management_Seal.png</linkToPhoto>
+					<linkToBio>https://www.cio.gov/about/members-and-leadership/clare-martorana/</linkToBio>
 					<deptCIO>1</deptCIO>
 					<address>
 						<address1>Office of Personnel Management 1900 E Street, NW Room 5415 Washington, DC 20415</address1>
