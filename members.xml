@@ -466,14 +466,14 @@
 				<agencyName>Department of Energy</agencyName>
 				<agencyCode>019</agencyCode>
 				<cio>
-					<firstName>Max</firstName>
-					<lastName>Everett</lastName>
+					<firstName>Rocky</firstName>
+					<lastName>Campione</lastName>
 					<email>
-						max.everett@hq.doe.gov</email>
+						v</email>
 					<phone>202-586-0166</phone>
 					<dateAppointed></dateAppointed>
-					<linkToPhoto>https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/07/Portraits-58.png</linkToPhoto>
-					<linkToBio>https://www.cio.gov/about/members-and-leadership/max-everett/</linkToBio>
+					<linkToPhoto>https://www.cio.gov/assets/images/members/bio.campione.jpg</linkToPhoto>
+					<linkToBio>https://www.cio.gov/about/members-and-leadership/campione-rocky/</linkToBio>
 					<deptCIO>1</deptCIO>
 					<address>
 						<address1></address1>
