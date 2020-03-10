@@ -717,7 +717,7 @@
 					<dateAppointed></dateAppointed>
 					<linkToPhoto>https://www.cio.gov/assets/images/members/bio_mendes.jpg</linkToPhoto>
 					<linkToBio>https://cio.gov/author/charles-h-romine/</linkToBio>
-					<deptCIO></deptCIO>
+					<deptCIO>1</deptCIO>
 					<address>
 						<address1>National Institute of Standards and Technology 100 Bureau Drive Mail Stop 8900 Gaithersburg, MD 20899-8900 Office Phone: 301-975-2900 Office Fax: 301-975-2378</address1>
 						<address2></address2>
