@@ -285,7 +285,7 @@
 		<updated>2014-02-05T21:14:53Z</updated>
 		<content type="xml">
 			<agency>
-				<agencyName>Department of Defense</agencyName>
+				<agencyName>U.S. Department of the Army</agencyName>
 				<agencyCode>007</agencyCode>
 				<cio>
 					<firstName>Bruce</firstName>
@@ -354,7 +354,7 @@
 					<phone></phone>
 					<dateAppointed></dateAppointed>
 					<linkToPhoto>https://www.cio.gov/assets/images/members/bio_deasy.png</linkToPhoto>
-					<linkToBio>https://www.cio.gov/about/members-and-leadership/dr-kelly-fletcher/</linkToBio>
+					<linkToBio>https://www.cio.gov/about/members-and-leadership/deasy-dana/</linkToBio>
 					<deptCIO>1</deptCIO>
 					<address>
 						<address1>Department of the Navy 1000 Navy Pentagon Washington, DC 20350</address1>
