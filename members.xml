@@ -99,38 +99,6 @@
 	</entry>
 
 	<entry>
-		<title>Department of the Air Force CIO Information
-		</title>
-		<id></id>
-		<updated>2015-03-13T16:29:47Z</updated>
-		<content type="xml">
-			<agency>
-				<agencyName>Department of the Air Force</agencyName>
-				<agencyCode></agencyCode>
-				<cio>
-					<firstName>WILLIAM E.</firstName>
-					<lastName>MARION II</lastName>
-					<email>usaf.pentagon.saf-cio-a6.mbx.saf-cio-a6-workflow@mail.mil</email>
-					<phone>703-695-6829</phone>
-					<dateAppointed></dateAppointed>
-					<linkToPhoto>https://www.cio.gov/assets/images/members/bio_william.jpg</linkToPhoto>
-					<linkToBio>https://www.cio.gov/about/team-and-leadership/marion-william/</linkToBio>
-					<deptCIO>1</deptCIO>
-					<address>
-						<address1>Department of the Air Force 1800 Air Force Pentagon Washington, DC 20330-1800
-
-						</address1>
-						<address2></address2>
-						<city>Washington</city>
-						<state>DC</state>
-						<zip>20330</zip>
-					</address>
-				</cio>
-			</agency>
-		</content>
-	</entry>
-
-	<entry>
 		<title>Department of the Treasury Acting CIO Information
 		</title>
 		<id></id>
