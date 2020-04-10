@@ -99,14 +99,14 @@
 	</entry>
 
 	<entry>
-		<title>
+		<title>Department of the Air Force CIO Information
 		</title>
 		<id></id>
 		<updated>2015-03-13T16:29:47Z</updated>
 		<content type="xml">
 			<agency>
 				<agencyName>Department of the Air Force</agencyName>
-				<agencyCode>007</agencyCode>
+				<agencyCode></agencyCode>
 				<cio>
 					<firstName>WILLIAM E.</firstName>
 					<lastName>MARION II</lastName>
@@ -285,7 +285,7 @@
 		<content type="xml">
 			<agency>
 				<agencyName>U.S. Department of the Army</agencyName>
-				<agencyCode>007</agencyCode>
+				<agencyCode></agencyCode>
 				<cio>
 					<firstName>Bruce</firstName>
 					<lastName>Crawford</lastName>
