@@ -516,7 +516,7 @@
 	</entry>
 
 	<entry>
-		<title>Social Security Administration Acting CIO Information
+		<title>Social Security Administration CIO Information
 		</title>
 		<id></id>
 		<updated>2015-10-27T20:37:00Z</updated>
@@ -525,13 +525,13 @@
 				<agencyName>Social Security Administration</agencyName>
 				<agencyCode>016</agencyCode>
 				<cio>
-					<firstName>Rajive</firstName>
-					<lastName>Mathur</lastName>
-					<email></email>
-					<phone>410-965-8399</phone>
+					<firstName>Sean</firstName>
+					<lastName>Brune</lastName>
+					<email>Sean.Brune@ssa.gov</email>
+					<phone>303-844-2388</phone>
 					<dateAppointed></dateAppointed>
-					<linkToPhoto>https://www.cio.gov/assets/images/members/bio_mathur.png</linkToPhoto>
-					<linkToBio>https://www.cio.gov/about/members-and-leadership/mr-rajive-mathur/</linkToBio>
+					<linkToPhoto>https://www.cio.gov/assets/images/members/bio_brune.jpg</linkToPhoto>
+					<linkToBio>https://www.cio.gov/about/members-and-leadership/brun-sean/</linkToBio>
 					<deptCIO>1</deptCIO>
 					<address>
 						<address1>Social Security Administration 6401 Security Boulevard 400 Altmeyer Building</address1>
