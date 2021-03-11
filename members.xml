@@ -178,9 +178,9 @@
     </entry>
 
     <entry>
-        <title>Office of Personnel Management Acting CIO Information</title>
+        <title>Federal Chief Information Officer</title>
         <id></id>
-        <updated>2014-05-09T17:48:30Z</updated>
+        <updated>2020-03-10T14:30:22Z</updated>
         <content type="xml">
             <agency>
                 <agencyName>Office of Personnel Management</agencyName>
@@ -358,39 +358,7 @@
     </entry>
 
     <entry>
-        <title>Federal Chief Information Officer
-        </title>
-        <id></id>
-        <updated>2020-03-10T14:30:22Z</updated>
-        <content type="xml">
-            <agency>
-                <agencyName>Office of Personnel Management</agencyName>
-                <agencyCode>027</agencyCode>
-                <cio>
-                    <firstName>Clare</firstName>
-                    <lastName>Martorana
-                    </lastName>
-                    <email>
-                    </email>
-                    <phone></phone>
-                    <dateAppointed></dateAppointed>
-                    <linkToPhoto>https://www.cio.gov/assets/images/members/martorana-clare.jpg</linkToPhoto>
-                    <linkToBio>https://www.cio.gov/about/members-and-leadership/clare-martorana/</linkToBio>
-                    <deptCIO>1</deptCIO>
-                    <address>
-                        <address1>Department of Labor 200 Constitution Avenue, NW Washington, DC 20210</address1>
-                        <address2></address2>
-                        <city>Washington</city>
-                        <state>DC</state>
-                        <zip>20210</zip>
-                    </address>
-                </cio>
-            </agency>
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Acting Chief Information Officer
+        <title>Office of Personnel Management Acting CIO Information
         </title>
         <id></id>
         <updated>2020-03-11T14:30:22Z</updated>
