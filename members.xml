@@ -186,13 +186,13 @@
                 <agencyName>Office of Personnel Management</agencyName>
                 <agencyCode>027</agencyCode>
                 <cio>
-                    <firstName>Clare</firstName>
-                    <lastName>Martorana</lastName>
+                    <firstName>Guy</firstName>
+                    <lastName>Cavallo</lastName>
                     <email></email>
                     <phone></phone>
                     <dateAppointed></dateAppointed>
-                    <linkToPhoto>https://www.cio.gov/assets/images/members/martorana-clare.jpg</linkToPhoto>
-                    <linkToBio>https://www.cio.gov/about/members-and-leadership/clare-martorana/</linkToBio>
+                    <linkToPhoto>https://www.cio.gov/assets/images/members/bio_Cavallo.png</linkToPhoto>
+                    <linkToBio>https://www.cio.gov/about/members-and-leadership/guy-cavallo/</linkToBio>
                     <deptCIO>1</deptCIO>
                     <address>
                         <address1>Office of Personnel Management 1900 E Street, NW Room 5415 Washington, DC 20415
@@ -351,38 +351,6 @@
                         <city>Washington</city>
                         <state>DC</state>
                         <zip>20202</zip>
-                    </address>
-                </cio>
-            </agency>
-        </content>
-    </entry>
-
-    <entry>
-        <title>Office of Personnel Management Acting CIO Information
-        </title>
-        <id></id>
-        <updated>2020-03-11T14:30:22Z</updated>
-        <content type="xml">
-            <agency>
-                <agencyName>Office of Personnel Management</agencyName>
-                <agencyCode>027</agencyCode>
-                <cio>
-                    <firstName>Guy</firstName>
-                    <lastName>Cavallo
-                    </lastName>
-                    <email>
-                    </email>
-                    <phone></phone>
-                    <dateAppointed></dateAppointed>
-                    <linkToPhoto>https://www.cio.gov/assets/images/members/bio_Cavallo.png</linkToPhoto>
-                    <linkToBio>https://www.cio.gov/about/members-and-leadership/vacant-opm/</linkToBio>
-                    <deptCIO>1</deptCIO>
-                    <address>
-                        <address1>Department of Labor 200 Constitution Avenue, NW Washington, DC 20210</address1>
-                        <address2></address2>
-                        <city>Washington</city>
-                        <state>DC</state>
-                        <zip>20210</zip>
                     </address>
                 </cio>
             </agency>
@@ -851,6 +819,34 @@
                         <city>Washington</city>
                         <state>DC</state>
                         <zip>20350</zip>
+                    </address>
+                </cio>
+            </agency>
+        </content>
+    </entry>
+
+    <entry>
+        <title>Federal Chief Information Officer, Office of Management and Budget
+        </title>
+        <id></id>
+        <updated>2021-08-17T15:48:34Z</updated>
+        <content type="xml">
+            <agency>
+                <agencyName>Office of Management and Budget</agencyName>
+                <cio>
+                    <firstName>Clare</firstName>
+                    <lastName>Martorana</lastName>
+                    <dateAppointed></dateAppointed>
+                    <linkToPhoto>https://www.cio.gov/assets/images/members/martorana-clare.jpg</linkToPhoto>
+                    <linkToBio>https://www.cio.gov/about/members-and-leadership/clare-martorana/</linkToBio>
+                    <deptCIO>1</deptCIO>
+                    <address>
+                        <address1>
+                        </address1>
+                        <address2></address2>
+                        <city></city>
+                        <state></state>
+                        <zip></zip>
                     </address>
                 </cio>
             </agency>
