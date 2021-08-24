@@ -110,13 +110,13 @@
                 <agencyName>Department of the Treasury</agencyName>
                 <agencyCode>015</agencyCode>
                 <cio>
-                    <firstName>Eric</firstName>
-                    <lastName>Olson</lastName>
-                    <email>eric.olson@treasury.gov</email>
-                    <phone>202-622-2015</phone>
+                    <firstName>Tony</firstName>
+                    <lastName>Arcadi</lastName>
+                    <email></email>
+                    <phone></phone>
                     <dateAppointed></dateAppointed>
-                    <linkToPhoto>https://www.cio.gov/assets/images/members/bio_olson.png</linkToPhoto>
-                    <linkToBio>https://www.cio.gov/about/members-and-leadership/olson-eric/</linkToBio>
+                    <linkToPhoto>https://www.cio.gov/assets/images/members/bio_arcadi.jpg</linkToPhoto>
+                    <linkToBio>https://www.cio.gov/about/members-and-leadership/arcadi-tony/</linkToBio>
                     <deptCIO>1</deptCIO>
                     <address>
                         <address1>Department of the Treasury 1750 Pennsylvania Avenue, NW 12103 Washington, DC 20006
