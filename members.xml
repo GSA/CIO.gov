@@ -853,4 +853,50 @@
         </content>
     </entry>
 
+    <entry>
+        <title>Chief Information Officer, Department of Energy
+        </title>
+        <id></id>
+        <updated>2022-02-03</updated>
+        <content type="xml">
+            <agency>
+                <agencyName>Department of Energy</agencyName>
+                <agencyCode>019</agencyCode>
+                <cio>
+                    <firstName>Ann</firstName>
+                    <lastName>Dunkin</lastName>
+                    <email></email>
+                    <phone></phone>
+                </cio>
+            </agency>
+        </content>
+    </entry>
+
+    <entry>
+        <title>Chief Information Officer, Department of Veterans Affairs
+        </title>
+        <id></id>
+        <updated>2022-02-03</updated>
+        <content type="xml">
+            <agency>
+                <agencyName>Chief Information Officer</agencyName>
+                <cio>
+                    <firstName>Kurt</firstName>
+                    <lastName>DelBene</lastName>
+                    <linkToPhoto>https://www.cio.gov/assets/images/members/kurt_delbene.png</linkToPhoto>
+                    <linkToBio>https://www.cio.gov/about/members-and-leadership/kurt-delbene/</linkToBio>
+                    <address>
+                        <address1>Office of the Department of Defense, Chief Information Officer 6000 Defense Pentagon
+                            Washington, D.C. 20301-6000
+                        </address1>
+                        <address2></address2>
+                        <city>Washington</city>
+                        <state>DC</state>
+                        <zip>20350</zip>
+                    </address>
+                </cio>
+            </agency>
+        </content>
+    </entry>
+
 </feed>
