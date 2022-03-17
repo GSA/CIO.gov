@@ -617,13 +617,13 @@
                 <agencyName>Small Business Administration</agencyName>
                 <agencyCode>028</agencyCode>
                 <cio>
-                    <firstName>Keith A.</firstName>
-                    <lastName>Bluestein</lastName>
-                    <email>Keith.Bluestein@sba.gov</email>
-                    <phone>202-205-6708</phone>
+                    <firstName></firstName>
+                    <lastName></lastName>
+                    <email></email>
+                    <phone></phone>
                     <dateAppointed></dateAppointed>
-                    <linkToPhoto>https://www.cio.gov/assets/images/members/bio_bluestein.png</linkToPhoto>
-                    <linkToBio>https://www.cio.gov/about/members-and-leadership/bluestein-keith/</linkToBio>
+                    <linkToPhoto></linkToPhoto>
+                    <linkToBio></linkToBio>
                     <deptCIO>1</deptCIO>
                     <address>
                         <address1>409 Third Street, SW Suite 4000 Washington, DC 20416</address1>
